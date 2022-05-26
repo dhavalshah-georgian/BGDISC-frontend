@@ -1,2 +1,2 @@
-# BGDISK-frontend
+# BGDISC-frontend
 BGDISC-frontend
